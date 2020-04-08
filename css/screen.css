@@ -1,16 +1,18 @@
 /* Style the html 
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_contact_section
 */
-.col-3 {width: 25%;}
-.col-6 {width: 50%;}
-}
-.aside {
-  background-color: #A6F7F5;
+.list {
+  width: 25%;
+  float: left;
   padding: 15px;
-  color: #ffffff;
-  text-align: center;
-  font-size: 14px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  border: 1px solid black;
+}
+
+.main {
+  width: 75%;
+  float: left;
+  padding: 15px;
+  border: 1px solid black;
 }
 img {
   border-radius: 50%;
