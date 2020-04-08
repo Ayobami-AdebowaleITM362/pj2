@@ -3,6 +3,7 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_contact_section
 */
 img {
   border-radius: 50%;
+  float: left;
 }
 html {
     border-radius: 5px;
